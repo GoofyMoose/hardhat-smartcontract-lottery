@@ -15,7 +15,7 @@ typechain
 .env
 
 # personal notes
-NOTES_*
+NOTES_*.txt
 
 # Built application files
 .DS*
