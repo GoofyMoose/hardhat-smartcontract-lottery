@@ -14,6 +14,9 @@ typechain
 # don't push the environment vars!
 .env
 
+# personal notes
+NOTES_*
+
 # Built application files
 .DS*
 *.apk
